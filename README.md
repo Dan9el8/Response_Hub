@@ -47,27 +47,27 @@
 
 ## Home
  This is the first page that displays whenever you run the code, it has navigation bar that enables one to naviagate across all the features of the application, It also contain an automated chatbot where one can directly start a conversation.
- ![home](screenshots\homepage.png)
+ ![home](screenshots/homepage.png)
 
  ## Automated Chatbot
   This features enables user to interact with a chatbot in providing real time searches on matters concerning road safety for better and faster response, which may also be used in learning various techniques of combating road accidents in Kenya
- ![chatbot](screenshots\chatbot.png)
+ ![chatbot](screenshots/chatbot.png)
 
  ## Real-time Analytics
   When it comes to matters concerning real time analytics on what happens on the road, the application got you covered. It provides data that give insights road users wisdom while using the road, by providing road routes that are danger zone, seasons where road accidents are high, types of vehicles that are mostly involced in accidents among others. This help road user to be more careful with the roads.
- ![analytics](screenshots\analytics.png)
+ ![analytics](screenshots/analytics.png)
 
  ## Report
   The application provides a page where road users can report incidents like poor road conditions, reckless driving, accidents etc through video and image uploading, areas where it has accured, time and date the it accured etc to help faster response from the ministry of Roads 
- ![report](screenshots\report.png)
+ ![report](screenshots/report.png)
 
  ## Learn
   This page has tutorials, videos and documents that road users can access to get educated on matters concering road safety, first aid skills to save lives when accidents occurs, which can highly help to reduce road accidents in Kenya  
- ![learn](screenshots\learn.png)
+ ![learn](screenshots/learn.png)
 
  ## Vehicle health
   This feature is found under the account nav element, where user can create an account, and fill a form that contains date of taking vehicles to the checkup, renewing insurance, and licence, and get real-time notification when the time to do any of the counts down, this will enable drivers have vehicles that are always in good condition hence reducing accidents caused by brake failures and others
- ![vehiclehealth](screenshots\vehiclehealth.png) 
+ ![vehiclehealth](screenshots/vehiclehealth.png) 
 
  ## Installation
  - [Python 3.x](https://www.python.org/downloads/)
