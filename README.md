@@ -63,7 +63,7 @@
 
  ## Learn
   This page has tutorials, videos and documents that road users can access to get educated on matters concering road safety, first aid skills to save lives when accidents occurs, which can highly help to reduce road accidents in Kenya  
- ![learn](C:\Users\ty\Response_Hub\screenshots\learn.png)
+ ![learn](Response_Hub\screenshots\learn.png)
 
  ## Vehicle health
   This feature is found under the account nav element, where user can create an account, and fill a form that contains date of taking vehicles to the checkup, renewing insurance, and licence, and get real-time notification when the time to do any of the counts down, this will enable drivers have vehicles that are always in good condition hence reducing accidents caused by brake failures and others
