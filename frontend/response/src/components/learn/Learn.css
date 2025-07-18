@@ -1,0 +1,82 @@
+.learn-container {
+  padding: 4rem 2rem;
+  background-color: black;
+  min-height: 100vh;
+  color: #1f2937;
+  text-align: center;
+}
+
+.learn-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  background: -webkit-linear-gradient(90deg, #ffb74d, #00ffc8);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.learn-subtitle {
+  font-size: 1.2rem;
+  max-width: 700px;
+  margin: 0 auto 2rem;
+  background: -webkit-linear-gradient(90deg, #ffb74d, #00ffc8);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.tutorial-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.tutorial-card {
+  background-color: black;
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  text-align: left;
+}
+
+.tutorial-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 30px rgba(0,0,0,0.12);
+}
+
+.tutorial-title {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #ffb74d;
+  margin-bottom: 0.75rem;
+}
+
+.tutorial-description {
+  font-size: 1rem;
+  color: #ffff;
+  margin-bottom: 1rem;
+}
+
+.tutorial-duration {
+  font-size: 0.875rem;
+  color: #6b7280;
+  font-style: italic;
+}
+
+/* Responsive tweaks */
+@media (max-width: 768px) {
+  .learn-title {
+    font-size: 2rem;
+  }
+
+  .learn-subtitle {
+    font-size: 1rem;
+  }
+
+  .tutorial-card {
+    padding: 1.5rem;
+  }
+}
