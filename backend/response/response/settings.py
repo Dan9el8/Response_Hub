@@ -137,7 +137,6 @@ MEDIA_ROOT = BASE_DIR / 'media'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-OPENAI_API_KEY = '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'
 
 REST_FRAMEWORK = {
     'DEFAULT_PERMISSION_CLASSES': [
